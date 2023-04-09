@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafalBolakhe/Node-calculator.git"
+  },
+  "author": "Safal Bolakhe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SafalBolakhe/Node-calculator/issues"
+  },
+  "homepage": "https://github.com/SafalBolakhe/Node-calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
